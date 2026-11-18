@@ -36,3 +36,5 @@ dotnet build
 ```
 
 El menú ofrece preparar café, consultar inventario, recoger un vaso y salir.
+
+Pipeline de CI configurado con GitHub Actions.
